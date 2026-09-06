@@ -29,10 +29,6 @@ Optional: `python -m http.server 8000` and open `http://localhost:8000`.
 6. Adapts follow-up questions: collateral appears for LAP; variable-income share appears for non-salaried borrowers.
 7. Treats unknown credit score as unknown, not 300.
 
-## Important honesty
-
-This is a transparent self-assessment, not lender underwriting. Rate bands and FOIR thresholds are prototype judgements, not live lender quotes. APR is an estimate until actual lender cash flows and KFS fields are available. See `RULES.md`.
-
 ## Demo profiles
 
 The app includes one-click Priya, Ravi and Anita demos so reviewers can inspect the reasoning quickly.
